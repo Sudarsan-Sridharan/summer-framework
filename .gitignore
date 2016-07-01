@@ -1,0 +1,9 @@
+/summerCore/.idea/
+/SummerWeb/.idea/
+/test-web/.idea/
+/SummerMvc/.idea/
+/summerCore/target/
+/SummerWeb/target/
+/test-web/target/
+/SummerMvc/target/
+*.iml
