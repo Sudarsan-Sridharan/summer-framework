@@ -6,4 +6,5 @@
 /SummerWeb/target/
 /test-web/target/
 /SummerMvc/target/
+.idea/
 *.iml
